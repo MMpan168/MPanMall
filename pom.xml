@@ -23,6 +23,7 @@
         <module>mpanmall-warehouse</module>
         <module>renren-fast</module>
         <module>mpanmall-common</module>
+        <module>mpanmall-gateway</module>
 
     </modules>
 
